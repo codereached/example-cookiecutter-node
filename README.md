@@ -1,0 +1,1 @@
+This is an example created by [cookiecutter-node](https://github.com/codereached/cookiecutter-node) 
